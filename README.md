@@ -17,6 +17,7 @@ Development Phase
 The designs were translated into code, focusing on responsiveness and adherence to the design specs.
 Version control using GitHub ensured seamless collaboration and version management.
 Regular code reviews were conducted to maintain code quality and consistency.
+The workflow is given in this file: photo-collage.png
 Collaboration
 This project is a team effort between:
 
@@ -29,9 +30,7 @@ Open the project in your browser or preferred editor.
 Clone the repository:
 bash
 Copy
-Edit
-git clone https://github.com/your-repo/project-name.git
-Follow the instructions in the setup guide (if applicable) to run the application locally.
+
 Tools and Technologies
 Figma: Used for UI/UX design.
 GitHub: For version control and collaboration.
