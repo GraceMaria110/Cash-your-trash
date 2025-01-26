@@ -2,11 +2,11 @@ Cash-your-trash
 
 
 Overview
-This repository contains the source code and assets for a collaborative project aimed at [brief description of the project goal, e.g., "designing an intuitive home screen UI for an application."] The design is embedded above and can be directly accessed via Figma.
+This repository contains the source code and assets for a collaborative project aimed at reducing trash. The design is embedded above and can be directly accessed via Figma.
 
 Features
 User-Friendly Interface: A clean, minimalist, and accessible design.
-Collaboration: Built with contributions from Ann Mariya Thomas and [Your Name].
+Collaboration: Built with contributions from Ann Mariya Thomas and Grace Maria George.
 Responsive Layout: Optimized for various screen sizes.
 Workflow
 Design Phase
