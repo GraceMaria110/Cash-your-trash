@@ -28,15 +28,6 @@ This repository contains the source code and assets for a collaborative project 
 
 ---
 
-## **Collaboration**
-This project is a team effort between:
-- **Grace Maria George**
-- **Ann Mariya Thomas**
-
-Our collaboration focused on seamlessly integrating design and development to deliver a cohesive final product.
-
----
-
 ## **How to Use**
 1. Open the project in your browser or preferred editor.
 2. Clone the repository:
