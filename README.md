@@ -17,7 +17,7 @@ Development Phase
 The designs were translated into code, focusing on responsiveness and adherence to the design specs.
 Version control using GitHub ensured seamless collaboration and version management.
 Regular code reviews were conducted to maintain code quality and consistency.
-The workflow is given in this file: photo-collage.png
+The workflow is given in this file:## [photo-collage.png](https://github.com/GraceMaria110/Cash-your-trash/blob/main/photo-collage.png.png)
 Collaboration
 This project is a team effort between:
 
